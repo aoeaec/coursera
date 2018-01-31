@@ -1,0 +1,24 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "This is the repo for dumping learning from CourseEra Course of Angular4",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoeaec/coursera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aoeaec/coursera/issues"
+  },
+  "homepage": "https://github.com/aoeaec/coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
